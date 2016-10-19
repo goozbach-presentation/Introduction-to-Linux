@@ -11,7 +11,7 @@ Quite a few people are interested about Linux, and this presentation is one of t
 You are probally interested in:
 
 * The Slides
-  <iframe src="https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   
   [Slide Source](https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/edit?usp=sharing)
 
