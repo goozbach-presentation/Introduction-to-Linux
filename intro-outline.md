@@ -47,7 +47,7 @@ Email: derek@goozbach.com
   * screen
   * shell scripting
   * regular expressions 
-  *text tools
+  * text tools
     * sed
     * awk
     * perl
