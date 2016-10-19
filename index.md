@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Goozbach Presentations :: Introduction to Linux
+title: Goozbach Presentations -- Introduction to Linux
 name: home
 ---
 
@@ -10,16 +10,18 @@ Quite a few people are interested about Linux, and this presentation is one of t
 
 You are probally interested in:
 
-## Source of entire presentation (minus slides): [sources](https://github.com/goozbach-presentation/Introduction-to-Linux)
+## Source of entire presentation (minus slides):
+
+[sources](https://github.com/goozbach-presentation/Introduction-to-Linux)
 
 ## The Slides
 
-  <iframe src="https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   
-  [Slide Source](https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/edit?usp=sharing)
+[Slide Source](https://docs.google.com/presentation/d/18JBp407MFFKQ-jWiHg_-QOmaD8CHRHIlgqD4z6X4o30/edit?usp=sharing)
 
 ### Photo Attributions
-  [Attribution](ATTR)
+[Attribution](ATTR)
 
 ## The Outline
- [Outline Source](https://github.com/goozbach-presentation/Introduction-to-Linux/blob/master/intro-outline.md)
+[Outline Source](https://github.com/goozbach-presentation/Introduction-to-Linux/blob/master/intro-outline.md)
