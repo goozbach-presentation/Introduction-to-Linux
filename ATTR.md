@@ -1,3 +1,9 @@
+---
+layout: main
+title: Photo Attributions
+name: ATTR
+---
+
 * ritchie thompson -- By Peter Hamer - Ken Thompson (sitting) and Dennis Ritchie at PDP-11Uploaded by Magnus Manske, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=24512134
 * car -- https://www.flickr.com/photos/hahatango/
 * car lot -- By Laitr Keiows - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=11195250
