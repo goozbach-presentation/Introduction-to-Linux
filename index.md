@@ -1,4 +1,10 @@
-## Introduction to Linux
+---
+layout: main
+title: Goozbach Presentations
+name: home
+---
+
+# Introduction to Linux
 This is perhaps the most utilized presentation I've given.
 Quite a few people are interested about Linux, and this presentation is one of the best ways of introducing them to it.
 
